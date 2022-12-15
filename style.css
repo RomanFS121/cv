@@ -1,0 +1,212 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.container{
+	max-width: 650px;
+	margin: auto;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 30px;
+}
+
+.Title{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.person{
+	display: flex;
+	margin-bottom: 30px;
+}
+
+.person__photo{
+	width: 200px;
+	border-radius: 20px;
+}
+
+.person__info{
+	padding: 0px 20px;
+}
+
+.person__info--value{
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.block{
+	border: 1px solid black;
+	padding: 10px 20px 20px 20px;
+	margin-bottom: 30px;
+}
+
+.block__title{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.goals__list{
+	padding: 0px 30px;
+}
+
+.schedule{
+	display: flex;
+	justify-content: space-between;
+	margin: 0px 200px;
+}
+.schedule__days p{
+	margin-bottom: 5px;
+}
+.schedule__hours p{
+	margin-bottom: 5px;
+}
+
+
+.courses__table{
+	
+	display: flex;
+	justify-content: space-between;
+	padding: 0px 30px 0px 10px;
+}
+
+.courses__header{
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	justify-content: space-between;
+	font-weight: bold;
+	border-bottom: 1px solid black;
+}
+
+.courses__title{
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-weight: bold;
+
+}
+.courses__author{
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+.courses__mark{
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+}
+/*
+.courses__table{
+	border: 1px solid green;
+
+}
+
+.courses__table--title{
+	display: flex;
+	border: 1px solid red;
+	justify-content: space-around;
+}
+.courses__table--content{
+	display: flex;
+	border: 1px solid red;
+	justify-content: space-around;
+}*/
+/*
+.courses__table{
+	width: 100%;
+}
+
+
+.courses__table tr:first-child{
+	font-weight: bold;
+		
+}*/
+
+.contacts__container{
+	display: flex;
+	justify-content: space-between;
+	padding: 0px 40px;
+}
+
+.contacts__link{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-decoration: none;
+}
+/*
+.contacts__logos{
+	display: flex;
+	justify-content: space-between;
+	margin: 0px 60px;
+}
+
+.contacts__links{
+	display: flex;
+	justify-content: space-between;
+	margin: 0px 60px;
+}
+*/
+
+
+.logo{
+	max-width: 45px;
+	margin-bottom: 5px;
+}
+
+.name{
+	text-decoration: none;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
